@@ -12,7 +12,7 @@ This project generates a chessboard using Python. A chessboard is a square board
 1. Install dependencies
 2. Run the program
 
-## 📷 Output
+## 📷 Application Screenshot
 ![Chessboard Screenshot](Python-Chessboard-Generator/screenshot.png)
 
 ## 🛠 Libraries Used

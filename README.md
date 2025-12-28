@@ -13,7 +13,7 @@ This project generates a chessboard using Python. A chessboard is a square board
 2. Run the program
 
 ## 📷 Output
-![Chessboard Screenshot](screenshot)
+![Chessboard Screenshot](./screenshot.png)
 
 ## 🛠 Libraries Used
 - Matplotlib
